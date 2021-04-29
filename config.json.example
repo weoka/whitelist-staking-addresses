@@ -1,0 +1,6 @@
+{
+    "wallets": [
+      "http://user:password@127.0.0.1:8332",
+      "http://user:password@127.0.0.1:8333"
+    ]
+}
